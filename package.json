@@ -1,6 +1,17 @@
 {
   "name": "ngvn-validators",
   "version": "0.0.0",
+  "author": "Tran Son Hoang <hayden.tran.d@gmail.com>",
+  "keywords": [
+    "Angular",
+    "Angular Reactive Form Validator",
+    "Form Validator"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoangtranson/ngvn-validators.git"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
